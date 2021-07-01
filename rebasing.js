@@ -8,3 +8,4 @@ if (alpha == 1908) {
 } else {
   console.log('Who you with?');
 }
+const sorority = [1908, 1913, 1920, 1922];
